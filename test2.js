@@ -1,3 +1,3 @@
 function abc() {
-  alert("ok");
+  alert("ok2");
 }
