@@ -1,0 +1,3 @@
+funciton abc() {
+  alert("ok");
+}
