@@ -1,4 +1,4 @@
-var isStart = false;
+var isStart = true;
 
 if (isStart == true) {
 	if (window.location.href.indexOf("facebook") != -1) {
